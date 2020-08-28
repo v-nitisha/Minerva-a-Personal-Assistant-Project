@@ -1,0 +1,7 @@
+Hi! Here are my next set of issues, some related/similar to previous issues.
+
+1. I am still unable to call the SpeechRecognitionMain from PrintMenu. This issue seems to be ongoing, so need some definitive working solution. (FYI, when I run SpeechRecognitionMain seperately, it works fine [It is now combined with the convertMp3toWAV])
+
+2. If I want to move the whole Minerva to another Windows laptop, there will be too many 'pip install' packages right? How to write a seperate script to run all installs, so that I can run this script before the codes on the different laptop.
+
+3. Unable to install the package MySQLdb [pip install MySQLdb]
